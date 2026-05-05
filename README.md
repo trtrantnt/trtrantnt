@@ -30,5 +30,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trtrantnt&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="langs_stats" />
   <br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=trtrantnt&amp;show_icons=true&amp;locale=en" alt="github_stats" />
+  <br><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=trtrantnt" alt="streak_stats" />
 </p>
