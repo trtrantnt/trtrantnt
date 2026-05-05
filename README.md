@@ -17,8 +17,9 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=trtrantnt&show_icons=true&locale=en&layout=compact" alt="langs_stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=trtrantnt&layout=compact&theme=algolia" alt="Top Langs" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=trtrantnt&show_icons=true&locale=en" alt="github_stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trtrantnt" alt="streak_stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=trtrantnt&show_icons=true&theme=algolia" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=trtrantnt&theme=algolia" alt="GitHub Streak" />
 </div>
